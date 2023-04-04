@@ -1,5 +1,7 @@
-# test-filed-path
+# Test filed path task
 
-There is a NxM cells filed. Each cell has "X" or "\_" value
-There is a start and finish point {x and y}
-You shoud compose a function that check if the way from start to finish point is exist.
+There is a MxN cells filed. Each cell has `X` or `_` value.
+
+Given a starting and finishing point in the field with x and y coordinates.
+
+You shoud compose a function that checks if the way from starting to finishing point is exist.
